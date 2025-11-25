@@ -3,7 +3,7 @@ Ce document décrit toutes les étapes exécutées dans le terminal (CMD) pour i
 
 ---
 
-## 🚀 1. Lancement de Cassandra via Docker
+## 
 
 ```bash
 docker run --name mon-cassandra -d -p 9042:9042 cassandra:4.1
